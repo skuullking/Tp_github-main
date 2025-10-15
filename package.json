@@ -1,0 +1,26 @@
+{
+  "name": "tp_github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santoudllo/Tp_github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santoudllo/Tp_github/issues"
+  },
+  "homepage": "https://github.com/Santoudllo/Tp_github#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
